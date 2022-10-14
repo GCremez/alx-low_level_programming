@@ -3,15 +3,12 @@
 #include <stdio.h>
 
 /**
- *
  * main - Entry point for random number
  *
  * Return: Always 0 (Success)
- *
  */
 
 int main(void)
-
 {
 int n;
 int last_num;
